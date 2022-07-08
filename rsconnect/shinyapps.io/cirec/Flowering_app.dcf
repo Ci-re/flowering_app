@@ -1,0 +1,13 @@
+name: Flowering_app
+title: Flowering_app
+username:
+account: cirec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6356613
+bundleId: 5936094
+url: https://cirec.shinyapps.io/Flowering_app/
+when: 1653328276.26368
+lastSyncTime: 1653328276.2637
+asMultiple: FALSE
+asStatic: FALSE

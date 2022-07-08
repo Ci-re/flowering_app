@@ -1,0 +1,20 @@
+sn,unique_id,plant_id,rep,plot_no,plant_no,genotype,treatment,height,forked,damage,ml_STS_previous_week,mM_BA_previous_week
+1,101_1_f_1,101_1,1,101,1,KS12000196,best practice,20,n,0,0,0
+2,101_2_f_2,101_2,1,101,2,KS12000196,best practice,50,n,0,0,0
+3,102_1_f_3,102_1,1,102,1,MKUMBA,best practice,50,y,0,0,0
+4,102_2_f_4,102_2,1,102,2,MKUMBA,best practice,70,n,0,4.5,0.5
+5,103_1_f_5,103_1,1,103,1,IBA980002,best practice,70,n,0,0,0
+6,103_2_f_6,103_2,1,103,2,IBA980002,best practice,125,y,3,0,0.5
+7,104_1_f_7,104_1,1,104,1,CR36-5,best practice,85,y,0,0,0.5
+8,104_2_f_8,104_2,1,104,2,CR36-5,best practice,-25,y,3,0,0.5
+9,105_1_f_9,105_1,1,105,1,TMS15F1463P0008,best practice,145,y,5,0,0.5
+10,105_2_f_10,105_2,1,105,2,TMS15F1463P0008,best practice,70,n,1,2.5,0.5
+11,106_1_f_11,106_1,1,106,1,TMS17F2026P0001,best practice,123,y,1,0,0.5
+12,106_2_f_12,106_2,1,106,2,TMS17F2026P0001,best practice,120,y,3,0,0
+13,107_1_f_13,107_1,1,107,1,TMEB7,best practice,105,y,2,0,0
+14,107_2_f_14,107_2,1,107,2,TMEB7,best practice,105,y,2,2.5,0.25
+15,108_1_f_15,108_1,1,108,1,TMS15F1482P0098,best practice,82,y,0,0,0
+16,108_2_f_16,108_2,1,108,2,TMS15F1482P0098,best practice,85,y,3,0,0
+17,109_1_f_17,109_1,1,109,1,IBA160008,best practice,105,y,1,0,0.5
+18,109_2_f_18,109_2,1,109,2,IBA160008,best practice,88,y,3,0,0
+19,110_1_f_19,110_1,1,110,1,UCC-20001212,best practice,100,y,3,0,0.25
